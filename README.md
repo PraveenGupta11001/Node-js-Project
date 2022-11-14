@@ -142,5 +142,4 @@ after running the command you have output :
 *********************************************************************************************************************************************
 *********************************************************************************************************************************************
 
-> I really enjoyed solved these question and I say these is not easy but still like and I have difficulties solving the first one 2 marks, that
-is feels like more than 20 marks but after solving I enjoyed and thanking company.
+> I really enjoyed solving these question and I say these is not easy but still like and I have difficulties but after solving I enjoyed and like it.
