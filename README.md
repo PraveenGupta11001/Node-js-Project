@@ -42,7 +42,8 @@ modules as your dependencies.
 
 open your terminal at this folder path and run those three assignment files
 ## Answer 1 : run command
-> C:\Users\yourSystemName\Desktop\assignment\node-js> node jsonToCsv.js
+> C:\Users\yourSystemName\Desktop\YourFolderName\node-js> node jsonToCsv.js
+
 your file path may be different so check your directory.
 
 after running the command you have output : 
@@ -77,7 +78,7 @@ based on your dataset) [4 marks]
 
 Answer A.  run command
     
-    C:\Users\yourSystemName\Desktop\assignment\node-js> node sortUsers.js
+    C:\Users\yourSystemName\Desktop\YourFolderName\node-js> node sortUsers.js
 
 your file path may be different so check your directory.
 
@@ -97,7 +98,7 @@ from **users.csv**.
 
 ****Answer B. Answer A. run command
 
-    > C:\Users\yourSystemName\Desktop\assignment\node-js> node first_nameSearch.js
+    > C:\Users\yourSystemName\Desktop\YourFolderName\node-js> node first_nameSearch.js
 
 your file path may be different so check your directory.
 
