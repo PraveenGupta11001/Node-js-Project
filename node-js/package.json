@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cross-fetch": "^3.1.5",
+    "csv-parser": "^3.0.0",
+    "json2csv": "^5.0.7",
+    "obj-csv": "^1.0.4",
+    "prompt-sync": "^4.2.0"
+  }
+}
