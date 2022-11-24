@@ -1,13 +1,13 @@
-# Assignment by Advancedware Technologies Private Limited
+# Conveting the json data into the csv file format by Using Node js
 
 *********************************************************************************************************************************************
 *********************************************************************************************************************************************
 
-**Question : 1. Write a program to GET random data of an user and write it in a File named
+**1. Write a program to GET random data of an user and write it in a File named
 users.csv. Each GET request must have an interval time of 1 second and append the
 information in a comma separated format. You can use any open source mock rest
  api endpoints available on the internet or use Random Data API
- (https://random-data-api.com/documentation) . [2 marks]
+ (https://random-data-api.com/documentation) . 
 
 
 Answer 1 : 
